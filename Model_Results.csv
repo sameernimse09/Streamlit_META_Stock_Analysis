@@ -1,0 +1,6 @@
+MODEL,TOTAL_FEATURES,HYPERPARAMETERS,RMSE
+Random Forest Regression,35,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 10}",10.3
+LASSO Regression,25,"{'alpha': 0.0072}",4.082
+XGBOOST,26,"{'learning_rate': 0.3, 'max_depth': 5, 'n_estimators': 150}",7.84
+LARS,25,"{'learning_rate': 0.003, 'max_depth': 5, 'n_estimators': 150}",13.56
+Ridge Regression,25,"{'alpha' : 0.038274}",22.504
